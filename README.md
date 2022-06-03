@@ -17,4 +17,4 @@ Worst case
 [3,7,5,8,2,9,4,15,6] > [3,5,7,8,2,9,4,15,6] > [2,3,5,7,8,9,4,15,6] > [2,3,4,5,7,8,9,15,6]
 ````
 
-[patikadev](www.patika.dev)
+[patikadev]((https://www.patika.dev/)
